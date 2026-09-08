@@ -2,7 +2,7 @@
 
 All Maude's repos are private!
 
-see the live stuff instead:
+Instead anyone can view whats live
 
 - [bccoursewiz.com](https://bccoursewiz.com) — smart course selection for BC students
 - [beaconinboston.com](https://beaconinboston.com) — Beacon Boston, AI compatibility engine
