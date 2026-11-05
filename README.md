@@ -1,6 +1,6 @@
 # Maude Niemann
 
-All Maude's repos are private!
+All my repos are private
 
 Instead anyone can view a few things that are live:
 - [godiverge.com](https://godiverge.com) — Diverge, social network for divergent minds
